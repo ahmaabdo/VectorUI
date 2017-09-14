@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="theme_dark">@*common:color/theme_dark</color>
+    <color name="theme_accent">@*common:color/theme_primary</color>
+    <color name="theme_black">@*common:color/theme_black</color>
+    <color name="theme_white">@*common:color/theme_white</color>
+
+    <color name="system_primary_color">@*common:color/theme_dark</color>
+    <color name="system_secondary_color">@*common:color/theme_black</color>
+    <color name="system_accent_color">@*common:color/theme_primary</color>
+    <color name="system_warning_color">@*common:color/theme_primary</color>
+
+    <color name="qs_text">@*common:color/theme_primary</color>
+    <color name="qs_tile_text">@*common:color/theme_primary</color>
+    <color name="qs_tile_divider">#00ffffff</color>
+    <color name="qs_detail_transition">#66FFFFFF</color>
+    <color name="qs_detail_progress_track">@*common:color/theme_primary</color>
+    <color name="qs_subhead">#9900b1e5</color>
+
+    <!-- The color of the material notification background -->
+    <color name="notification_material_background_color">#FFFAFAFA</color>
+
+    <!-- The color of the material notification background when dimmed -->
+    <color name="notification_material_background_dimmed_color">#FFFAFAFA</color>
+
+    <!-- The color of the material notification background when low priority -->
+    <color name="notification_material_background_low_priority_color">#FFeceff1</color>
+
+    <!-- The color of the ripples on the untinted notifications -->
+    <color name="notification_ripple_untinted_color">#8000b1e5</color>
+
+    <!-- The color of the ripples on the low priority notifications -->
+    <color name="notification_ripple_color_low_priority">#4800b1e5</color>
+
+    <!-- The color of the ripples on the tinted notifications -->
+    <color name="notification_ripple_tinted_color">#8000b1e5</color>
+
+    <!-- Nav Bar Ripple Color -->
+    <color name="navbutton_ripple_color">@*common:color/theme_primary</color>
+
+    <!-- QS Tile Data Usage Graph -->
+    <color name="data_usage_secondary">#99FFFFFF</color><!-- 60% white -->
+    <color name="data_usage_graph_track">#33000000</color><!-- 20% white -->
+    <color name="data_usage_graph_warning">@*common:color/theme_highlighter</color>
+
+    <!-- Expanded Status Bar Weather Text Colors -->
+    <color name="status_bar_temperature_text_color">@*common:color/theme_white</color>
+    <color name="status_bar_temperature_location_text_color">@*common:color/theme_white_dark</color>
+
+    <color name="volume_panel_divider">#1FFFFFFF</color>
+
+    <!-- QS Settings Text Colors -->
+    <color name="qs_tile_reset_to_default_text_color">@*common:color/theme_white</color>
+    <color name="qs_title_text_color">@*common:color/theme_primary</color>
+    <color name="qs_edit_header_instruction_text_color">@*common:color/theme_white</color>
+    <color name="qs_row_text_color">@*common:color/theme_white</color>
+
+    <!-- Warning message bg color after choosing silence mode -->
+    <color name="zen_introduction_message_background">#14ffffff</color>
+
+    <!-- Zen modes in DND tile -->
+    <color name="segmented_buttons_background">#14FFFFFF</color>
+    <color name="segmented_button_selected">#FFFFFFFF</color>
+    <color name="segmented_button_unselected">#FFB0BEC5</color>
+
+</resources>

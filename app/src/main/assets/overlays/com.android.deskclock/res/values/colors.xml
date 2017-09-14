@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_accent">@*common:color/theme_primary</color>
+
+    <color name="clock_white">#ffffff</color>
+    <color name="clock_gray">#B3ffffff</color>
+
+    <!-- Values for custom notification -->
+    <color name="notif_text_grey">#9c9c9c</color>
+    <color name="control_highlight_color">#42ffffff</color>
+    <color name="notification_bg">#181818</color>
+    <color name="notification_icon_bg">#00B1E5</color>
+    <color name="notification_pressed">#333333</color>
+    <color name="notification_divider">#d9d9d9</color>
+
+    <!-- App icon color as default -->
+    <color name="default_background">#1a1a1a</color>
+    <color name="status_bar">#1a1a1a</color>
+
+    <color name="hour_00">@*common:color/theme_dark</color><!-- Midnight -->
+    <color name="hour_01">@*common:color/theme_dark</color>
+    <color name="hour_02">@*common:color/theme_dark</color>
+    <color name="hour_03">@*common:color/theme_dark</color>
+    <color name="hour_04">@*common:color/theme_dark</color>
+    <color name="hour_05">@*common:color/theme_dark</color>
+    <color name="hour_06">@*common:color/theme_dark</color>
+    <color name="hour_07">@*common:color/theme_dark</color>
+    <color name="hour_08">@*common:color/theme_dark</color>
+    <color name="hour_09">@*common:color/theme_dark</color>
+    <color name="hour_10">@*common:color/theme_dark</color>
+    <color name="hour_11">@*common:color/theme_dark</color>
+    <color name="hour_12">@*common:color/theme_dark</color><!-- Noon -->
+    <color name="hour_13">@*common:color/theme_dark</color>
+    <color name="hour_14">@*common:color/theme_dark</color>
+    <color name="hour_15">@*common:color/theme_dark</color>
+    <color name="hour_16">@*common:color/theme_dark</color>
+    <color name="hour_17">@*common:color/theme_dark</color>
+    <color name="hour_18">@*common:color/theme_dark</color>
+    <color name="hour_19">@*common:color/theme_dark</color>
+    <color name="hour_20">@*common:color/theme_dark</color>
+    <color name="hour_21">@*common:color/theme_dark</color>
+    <color name="hour_22">@*common:color/theme_dark</color>
+    <color name="hour_23">@*common:color/theme_dark</color>
+
+    <!--- Color to modify the numpad color in timer -->
+    <color name="numpad_color">@*common:color/theme_primary</color>
+
+</resources>

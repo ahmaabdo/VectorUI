@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AlertDialogTheme" parent="@android:style/Theme.Material.Dialog.Alert">
+        <item name="android:colorAccent">@*common:color/theme_primary</item>
+    </style>
+
+    <style name="FabStyle">
+        <item name="android:elevation">0dip</item>
+    </style>
+
+</resources>
