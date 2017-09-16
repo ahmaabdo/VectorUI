@@ -30,9 +30,9 @@
     <color name="primary_dark_material_dark">@*common:color/theme_black</color>
     <color name="primary_dark_material_light">#ff757575</color>
 
-    <color name="ripple_material_dark">#8000b1e5</color>
-    <color name="ripple_material_light">#8000b1e5</color>
-    <color name="colorEdgeEffect">#8000b1e5</color>
+    <color name="ripple_material_dark">#5C97C5</color>
+    <color name="ripple_material_light">#5C97C5</color>
+    <color name="colorEdgeEffect">#5C97C5</color>
 
     <color name="accent_material_light">@color/material_deep_teal_200</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
@@ -40,10 +40,10 @@
     <color name="button_material_dark">#ff282930</color>
     <color name="button_material_light">#ffd6d7d7</color>
 
-    <color name="switch_thumb_normal_material_dark">#ff0d6f8c</color>
-    <color name="switch_thumb_normal_material_light">#ff0d6f8c</color>
-    <color name="switch_thumb_disabled_material_dark">#ff09495c</color>
-    <color name="switch_thumb_disabled_material_light">#ff09495c</color>
+    <color name="switch_thumb_normal_material_dark">#5C97C5</color>
+    <color name="switch_thumb_normal_material_light">#5C97C5</color>
+    <color name="switch_thumb_disabled_material_dark">#5C97C5</color>
+    <color name="switch_thumb_disabled_material_light">#5C97C5</color>
 
     <color name="bright_foreground_material_dark">@*common:color/theme_white</color>
     <color name="bright_foreground_material_light">@*common:color/theme_dark</color>
