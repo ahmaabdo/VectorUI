@@ -7,8 +7,8 @@ android {
         applicationId "ahmaabdo.vectorui"
         minSdkVersion 10
         targetSdkVersion 26
-        versionCode 4
-        versionName "1.4.1"
+        versionCode 5
+        versionName "1.5.2"
     }
     buildTypes {
         release {
